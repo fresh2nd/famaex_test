@@ -9,7 +9,9 @@ To generate some corporation structure run:
 
 [App UML](https://drive.google.com/file/d/1VY3OtYF6On0WIPYAiA6WUKvFnHGevt67/view?usp=sharing)
 
-To authenticate users just add a header ['Authorization'] with user_id as token to any request
+To authenticate users just add a header ['Authorization'] with user_id as token to any request.
+
+[Example request](https://www.getpostman.com/collections/5e81203838eb494d509c)
 
 ## Test purpose
 
